@@ -1,4 +1,4 @@
-* 🌟 Hi, I'm Sai, and I'm a data analyst.📊 <br />
+* 🌟 Hi, Call me Sai, and I'm a data analyst.📊 <br />
 * 🌐 I use the power of data to craft solutions for businesses and organizations. 💼 <br />
 * 🔥 Passionate about PYTHON, SQL, EXCEL, and the captivating world of DATA VISUALIZATION with POWER BI and TABLEAU.🎨 <br />
 * 🤝 I'm open for collaboration! 🤝 <br />
