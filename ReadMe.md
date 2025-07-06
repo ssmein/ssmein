@@ -1,8 +1,8 @@
 # Hi there 👋
 
-My name is SAI. I help businesses harness data and modernize operations through advanced analytics, custom dashboards, and **transform manual work into efficient digital systems**.
+My name is SAI. I help businesses unlock the full value of their data and modernize their systems for the digital age.
 
-With a background in **engineering, construction, project management, and data science**, I combine real-world industry insight with modern tools like dashboards, automation, and cloud platforms.
+With a background in **engineering, construction, project management, and data science**, I help translate complex datasets into clear, actionable insights that drive smarter decisions. My experience in the construction and infrastructure sector gives me a unique edge in understanding real-world challenges and designing practical, data-driven solutions that deliver measurable impact.
 
 **"Digitize. Analyze. Optimize."**
 
